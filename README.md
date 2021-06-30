@@ -2,6 +2,6 @@
 
 - I code/program as a hobby!
 
-- I'm currently learning python which has some really cool functionalities!
+- I'm currently learning how to make websites.... again...
 
 - Discord - Cherry Man#6960 (Message me!)
