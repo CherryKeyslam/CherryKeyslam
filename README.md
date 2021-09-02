@@ -8,3 +8,4 @@
 
 - Discord - Cherry Man#6960 (Message me!)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherrykeyslam&theme=tokyonight)
