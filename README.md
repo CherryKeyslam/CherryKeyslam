@@ -8,4 +8,3 @@
 
 - Discord - Cherry Man#6960 (Message me!)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=cherrykeyslam)
