@@ -7,3 +7,5 @@
 - I'm currently learning how to make browser extensions.
 
 - Discord - Cherry Man#6960 (Message me!)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=cherrykeyslam)
