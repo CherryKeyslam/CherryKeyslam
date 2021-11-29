@@ -2,9 +2,9 @@
 
 - I code/program as a hobby!
 
-- I know  the basics of C#, python and HTML *and* javascript.
+- I know  the basics of C#, python, PHP, HTML and javascript.
 
-- I'm currently learning how to make browser extensions.
+- I'm currently working on a console game!
 
 - Discord - Cherry Man#6960 (Message me!)
 
