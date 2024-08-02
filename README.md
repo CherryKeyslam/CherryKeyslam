@@ -1,6 +1,6 @@
 - Its a me! a Mari- Cherry Key Slam....
 
-- I code/program and draw as hobbies.
+- I code/program, draw, animate, try maths problems, and make circuits as hobbies.
 
 - I know  the basics of C#, python, PHP, HTML and javascript.
 
